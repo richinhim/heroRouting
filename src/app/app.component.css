@@ -26,3 +26,14 @@ nav a:hover {
 nav a.active {
   color: #039be5;
 }
+
+nav a.router-link-active {
+  color: #039be5;
+}
+
+.header-bar {
+  background-color: rgb(0,120,215);
+  height: 4px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
